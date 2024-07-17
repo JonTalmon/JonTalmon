@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JonTalmon
+- 👀 I’m interested in back-end and fullStack development!
+- 🌱 I’m currently learning javaScript, Java & C#
+- 📫 How to reach me: jonatas_talmon@hotmail.com
+- ⚡ Fun fact: I have a bachelor degree in business and I'm trying to change careers!
