@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil! 👋
 
 ## Sobre mim
-Olá, meu nome é **Jônatas Talmon**! Sou desenvolvedor com foco em **desenvolvimento backend**.  
+Olá, meu nome é **Jônatas Talmon**! Sou desenvolvedor com foco em **Desenvolvimento Backend**.  
 Atualmente trabalho com tecnologias como **JavaScript, Node.js, Express.js, MySQL, PostgreSQL, Sequelize, TypeScript, HTML5 e CSS3**.
 
 ---
@@ -27,7 +27,7 @@ Atualmente trabalho com tecnologias como **JavaScript, Node.js, Express.js, MySQ
 ## 🚀 Últimos Trabalhos
 
 ### [Projeto Veterinária](https://github.com/JonTalmon/ProjetoVeterinaria)
-**Descrição:** Este projeto foi desenvolvido para a empresa veterinária fictícia **Mascot Clinical Vet**, focando na gestão e controle de internações de animais. Ele utiliza **Node.js**, **PostgreSQL**, e **Sequelize**, e foi projetado para facilitar o gerenciamento de dados de pacientes, tratamentos, e relatórios diários.  
+**Descrição:** Este projeto foi desenvolvido para a empresa veterinária chamada **Mascot Clinical Vet**, focando na gestão e controle de internações de animais. Ele utiliza **Node.js**, **PostgreSQL**, e **Sequelize**, e foi projetado para facilitar o gerenciamento de dados de pacientes, tratamentos, e relatórios diários.  
 **Principais Funcionalidades:**
 - CRUD completo para pacientes, internações e tratamentos.
 - Relatórios dinâmicos de acompanhamento diário.
