@@ -28,7 +28,8 @@ Atualmente trabalho com tecnologias como **JavaScript, Node.js, Express.js, MySQ
 
 ### [Sistema de Controle de Presença](https://github.com/JonTalmon/controleDePresenca)
 **Descrição:** Sistema desenvolvido para gerenciar a presença de salas em uma igreja, utilizando **Node.js**, **PostgreSQL**, e **Sequelize**. Com uma arquitetura bem definida, o projeto permite a organização hierárquica de dados como anos, meses, dias e grupos de classes.  
-**Status:** Em andamento.  
+**Status:** Em andamento.
+
 **Principais Funcionalidades:**
 - Registro e consulta de presença por data, classe ou pessoa.
 - CRUD para pessoas, com associação a grupos de classe.
