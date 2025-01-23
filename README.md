@@ -35,8 +35,9 @@ Atualmente trabalho com tecnologias como **JavaScript, Node.js, Express.js, MySQ
 - Relacionamentos hierárquicos mapeados entre anos, meses e dias.
 
 ### [Projeto Veterinária](https://github.com/JonTalmon/ProjetoVeterinaria)
-**Descrição:** Este projeto foi desenvolvido para a empresa veterinária chamada **Mascot Clinical Vet**, focando na gestão e controle de internações de animais. Ele utiliza **Node.js**, **PostgreSQL**, e **Sequelize**, e foi projetado para facilitar o gerenciamento de dados de pacientes, tratamentos, e relatórios diários. 
-**Status:** Finalizado. 
+**Descrição:** Este projeto foi desenvolvido para a empresa veterinária chamada **Mascot Clinical Vet**, focando na gestão e controle de internações de animais. Ele utiliza **Node.js**, **PostgreSQL**, e **Sequelize**, e foi projetado para facilitar o gerenciamento de dados de pacientes, tratamentos, e relatórios diários.  
+**Status:** Finalizado.  
+
 **Principais Funcionalidades:**
 - CRUD completo para pacientes, internações e tratamentos.
 - Relatórios dinâmicos de acompanhamento diário.
