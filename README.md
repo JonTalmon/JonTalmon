@@ -26,6 +26,14 @@ Atualmente trabalho com tecnologias como **JavaScript, Node.js, Express.js, MySQ
 
 ## 🚀 Últimos Trabalhos
 
+### [Sistema de Controle de Presença](#)
+**Descrição:** Sistema desenvolvido para gerenciar a presença de salas em uma igreja, utilizando **Node.js**, **PostgreSQL**, e **Sequelize**. Com uma arquitetura bem definida, o projeto permite a organização hierárquica de dados como anos, meses, dias e grupos de classes.  
+**Status:** Em andamento.  
+**Principais Funcionalidades:**
+- Registro e consulta de presença por data, classe ou pessoa.
+- CRUD para pessoas, com associação a grupos de classe.
+- Relacionamentos hierárquicos mapeados entre anos, meses e dias.
+
 ### [Projeto Veterinária](https://github.com/JonTalmon/ProjetoVeterinaria)
 **Descrição:** Este projeto foi desenvolvido para a empresa veterinária chamada **Mascot Clinical Vet**, focando na gestão e controle de internações de animais. Ele utiliza **Node.js**, **PostgreSQL**, e **Sequelize**, e foi projetado para facilitar o gerenciamento de dados de pacientes, tratamentos, e relatórios diários.  
 **Principais Funcionalidades:**
