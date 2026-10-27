@@ -26,7 +26,7 @@ Atualmente trabalho com tecnologias como **JavaScript, Node.js, Express.js, MySQ
 
 ---
 
-## 🚀 Últimos Trabalhos
+## 🚀 Últimos Trabalhos Freelance
 
 ### [Sistema de Controle de Presença](https://github.com/JonTalmon/controleDePresenca)
 **Descrição:** Sistema desenvolvido para gerenciar a presença de salas em uma igreja, utilizando **Node.js**, **PostgreSQL**, e **Sequelize**. Com uma arquitetura bem definida, o projeto permite a organização hierárquica de dados como anos, meses, dias e grupos de classes.  
